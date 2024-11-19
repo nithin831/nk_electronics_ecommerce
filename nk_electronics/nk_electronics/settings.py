@@ -199,12 +199,12 @@ CKEDITOR_CONFIGS = {
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'nkisnithinkumar@gmail.com'
-EMAIL_HOST_PASSWORD = 'vgjjicsaqdfofkri'
+EMAIL_HOST_USER = '*********@gmail.com'
+EMAIL_HOST_PASSWORD = '*********'
 
 
-RAZORPAY_KEY_ID = "rzp_test_pQ2c5nI3Al0TqY"
-RAZORPAY_KEY_SECRET = "I2LhethhxdEGgXLo67DPqUja"
+RAZORPAY_KEY_ID = "*******"
+RAZORPAY_KEY_SECRET = "********"
 
 
 
